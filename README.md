@@ -1,0 +1,4 @@
+exercises
+=========
+
+small exercises projects
