@@ -1,0 +1,13 @@
+.button{
+display: inline-block;
+height: 13px;
+margin: 7px 19px;
+width: 14px;
+text-align: center;
+text-decoration: none; 
+color: white; 
+}
+.blue{
+background-color: #4d90fe;
+border-radius: 2px;
+}
